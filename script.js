@@ -28,7 +28,7 @@ $(document).ready(function(){
     $('body').toggleClass('dark-theme');
   });
 
-  // smooth scrolling 
+
 
   $('a[href*="#"]').on('click',function(e){
 
